@@ -10,7 +10,7 @@ Random uncertianty in the conditional variable, can lead to a bias in thee condi
 The [corresponding .html](https://github.com/nithinsivadas/regression-bias/blob/main/Code_1_Demonstrating_regression_bias.html) can be used to view the code and the results for those who do not have access to MATLAB 2021. 
 
 **Code_2_Regression_bias_in_solar_wind_measurements.mlx**: contains the code that compares simultaneous, solar wind parameters propagated to the magnetospheric bow shock, measured by ACE and WIND. We carry out non-linear regression of one parameter over the other, and vice versa, and show that the origin of bias has to  be regression dilution bias.  
-The [corresponding .html]{https://github.com/nithinsivadas/regression-bias/blob/main/Code_2_Regression_bias_in_solar_wind_measurements.html} can be used to view the code and the results for those who do not have access to MATLAB 2021. 
+The [corresponding .html](https://github.com/nithinsivadas/regression-bias/blob/main/Code_2_Regression_bias_in_solar_wind_measurements.html) can be used to view the code and the results for those who do not have access to MATLAB 2021. 
 
 **Data.zip** contains the following data files: 
 
